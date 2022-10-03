@@ -9,11 +9,11 @@
 - Sprechzeiten, sowie Mail und B2B Info
 
 
-### Ernährungsberater: Dr. Frank N Furter
+### Leiter des Ethik Komitees: Dr. Frankenstein
 - 1 Bild
 - Sprechzeiten, sowie Mail
 
-### Leiter des Ethik Komitees: Dr. Frankenstein
+### Ernährungsberater: Dr. Frank N Furter
 - 1 Bild
 - Sprechzeiten, sowie Mail
 
