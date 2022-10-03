@@ -10,9 +10,9 @@
   - Mitarbeiter Maximilian Hochstrat und Michael Borodin sind Ansprechpartner für das Projekt "Webpage für Praxis ####"
   - Kontaktaufnahme über Email an fiktive@firma.de oder unter der Telefonnummmer +49 XXX-XXX-XXX
 
-6.  **Rahmenbedingungen**: Für die Vorgesehenen Aufgaben werden 40 Arbeitsstunden angesetzt. Die Betriebs- und Arbeitszeiten sind von 9 bis 17 Uhr von Montags bis Freitags vom 26. Nov bis zum 4.Okt.
+5.  **Rahmenbedingungen**: Für die Vorgesehenen Aufgaben werden 40 Arbeitsstunden angesetzt. Die Betriebs- und Arbeitszeiten sind von 9 bis 17 Uhr von Montags bis Freitags vom 26. Nov bis zum 4.Okt.
     
-7.  **Technische Anforderungen**: Für die Umsetzung sind keine besonderen technischen Anforderungen festzuhalten.
+6.  **Technische Anforderungen**: Für die Umsetzung sind keine besonderen technischen Anforderungen festzuhalten.
     
     
-8.  **Qualität**: Es wird hohe Qualität und Professionalität von den Mitarbeitern erwartet, besonders erwünscht is regelmäßige Rückmeldung um Designfragen zur Zufriedenheit des Arbeitgebers zu gewährleisten.  
+7.  **Qualität**: Es wird hohe Qualität und Professionalität von den Mitarbeitern erwartet, besonders erwünscht is regelmäßige Rückmeldung um Designfragen zur Zufriedenheit des Arbeitgebers zu gewährleisten.   
