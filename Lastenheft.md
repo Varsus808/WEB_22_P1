@@ -1,6 +1,4 @@
-# Pflichtenheft
-
-
+# Lastenheft
  
  ## Praxis Team
 
