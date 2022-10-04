@@ -16,3 +16,7 @@
     
     
 7.  **Qualität**: Es wird hohe Qualität und Professionalität von den Mitarbeitern erwartet, besonders erwünscht is regelmäßige Rückmeldung um Designfragen zur Zufriedenheit des Arbeitgebers zu gewährleisten.
+
+# Kommentar
+Fehlender Punkt Mitwirkungspflicht (Hosting?)
+Salvatorische Klause
