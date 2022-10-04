@@ -22,9 +22,9 @@
 - 1 Bild der Praxis
 - Wegbeschreibung
 - Impressum
- - Titel der Praxis + since 1998
- - Adresse als untertitel + Öffnungszeiten
- - Gemeinschaftspraxis + Liste der Ärzte (Dr. Heisenberg, Dr. Frankenstein, Dr. Frank N Furter)
+- Titel der Praxis + since 1998
+- Adresse als untertitel + Öffnungszeiten
+- Gemeinschaftspraxis + Liste der Ärzte (Dr. Heisenberg, Dr. Frankenstein, Dr. Frank N Furter)
 
 ## Allgemeines
 - Klinische Farbgebung
