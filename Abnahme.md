@@ -7,12 +7,12 @@
 - Eine Wegbeschreibung fehlt, welche von dem Auftraggeber nicht bereitgestellt wurde.
 - Der Auftraggeber bemängelt weiterhin, dass wenig Kontakt vom Arbeitnehmer aufgebaut wurde.
 
-### Fazit:
+### Forderungen:
 Der Auftraggeber ist mit außnahme der o.g. Punkte zufrieden und fordert eine Verbesserung in folgenden Punkten:
 - der Namen "Dr. Heisenbär" wird zu Dr. Heisenberg korrigiert
 - der Freitext wird entfernt
 - das Bild der Praxis wird skaliert
 - eine Wegbeschreibung, bereitgestellt vom Auftraggeber, wird hinzugefügt
-mit der Frist zu dem 11.10.22.
 
-- Der Auftragnehmer stimmt den o.g. Forderungen zu.
+### Fazit:
+- Der Auftragnehmer stimmt den o.g. Forderungen zu. mit der Frist zu dem 11.10.22.
