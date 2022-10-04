@@ -15,4 +15,4 @@ Der Auftraggeber ist mit außnahme der o.g. Punkte zufrieden und fordert eine Ve
 - eine Wegbeschreibung, bereitgestellt vom Auftraggeber, wird hinzugefügt
 
 ### Fazit:
-- Der Auftragnehmer stimmt den o.g. Forderungen zu. mit der Frist zu dem 11.10.22.
+- Der Auftragnehmer stimmt den o.g. Forderungen zu mit der Frist zu dem 11.10.22.
